@@ -1,37 +1,42 @@
 # Projede Kullanılan Teknolojiler
 
-Entity Framework Core,
-Mvc,
-N-Tier Architecture,
-MediatR Design Pattern,
-CQRS Design Pattern,
-Repository Design Pattern,
-Unit Of Work Design Pattern,
+Entity Framework Core, Mvc, N-Tier Architecture,
+<br>
+
+MediatR Design Pattern, CQRS Design Pattern, Repository Design Pattern, Unit Of Work Design Pattern,
+
+<br>
+
 Container Dependencies kullanımı ve Startup Refactoring işlemleri,
-ModelView,
-DTO katmanı ve AutoMapper
-Area,
-Restful Api,
-Rapid Api,
-SignalR,
-Ajax,
+
+<br>
+
+ModelView, DTO katmanı ve AutoMapper
+
+<br>
+
+Restful Api, Rapid Api, SignalR, Ajax,
+
+<br>
+Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri, Localization, Google Hesaba Mail Gönderme İşlemi, Identity, Authentication & Authorization, Rol Yönetimi, 
+
+<br>
+
+Excel Raporları ile çalışma , Pdf Raporları, Dil Desteği,
+
+<br>
+
 Loglama,
 Dependency Injection,
 Autofac,
 Fluent Validation,
 ViewComponent,
+Area,
 PartialView,
 Layout Partial,
 Hata sayfaları oluşturma,
-Identity,
-Authentication & Authorization,
-Rol Yönetimi,
-Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri,
-Localization,
-Google Hesaba Mail Gönderme İşlemi, 
-Excel Raporları ile çalışma ,
-Pdf Raporları,
-Dil Desteği,
+
+
 LINQ,
 İlişkisel Tablolar ve Include işlemleri.
 
