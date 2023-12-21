@@ -93,7 +93,7 @@ FrontEnd->HTML, CSS, JavaScript, jQuery.
 <br>
 <br>
 
-3-8691-4dcf-a26c-188f65c2bf75)
+
 
 <br>
 <br>
@@ -102,7 +102,8 @@ FrontEnd->HTML, CSS, JavaScript, jQuery.
 
 <br>
 <br>
-![Ekran Görüntüsü (361)]
+
+![Ekran Görüntüsü (361)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/00c9fb92-e09e-4771-ba8e-0c83767ca7e2)
 
 <br>
 <br>
@@ -148,13 +149,39 @@ FrontEnd->HTML, CSS, JavaScript, jQuery.
 <br>
 
 ![Web yakalama_21-12-2023_14201_localhost](https://github.com/Elifnaz00/TraversalProje/assets/144447322/90cd7c33-1f3b-4cb2-8326-e15c81096e35)
+
+<br>
+<br>
+
 ![Web yakalama_21-12-2023_141412_localhost](https://github.com/Elifnaz00/TraversalProje/assets/144447322/876644c7-ec64-46a6-abd8-5f36031fb0b3)
+
+<br>
+<br>
+
 ![Web yakalama_21-12-2023_141438_localhost](https://github.com/Elifnaz00/TraversalProje/assets/144447322/ef4ec197-1e71-41f9-a3db-34f5338b5841)
+
+<br>
+<br>
+
 ![Web yakalama_21-12-2023_141528_localhost](https://github.com/Elifnaz00/TraversalProje/assets/144447322/0fc2edd1-5269-49a6-9c8d-2690c5f0cc50)
+
+<br>
+<br>
+
 ![Web yakalama_21-12-2023_141550_localhost](https://github.com/Elifnaz00/TraversalProje/assets/144447322/9d38993e-3b17-4561-a27f-65c89c220f88)
+
+<br>
+<br>
+
 ![Web yakalama_21-12-2023_14192_localhost](https://github.com/Elifnaz00/TraversalProje/assets/144447322/c1d14224-ae3c-4c62-9765-becd5ce2cf84)
 
+<br>
+<br>
+
 ![Web yakalama_21-12-2023_141946_localhost](https://github.com/Elifnaz00/TraversalProje/assets/144447322/d5ffbc11-1246-4811-9099-c69e5780f95f)
+
+<br>
+<br>
 
 ![son](https://github.com/Elifnaz00/TraversalProje/assets/144447322/c23f239b-2949-432d-b5d2-e6eacc845559)
 
