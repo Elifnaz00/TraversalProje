@@ -12,7 +12,7 @@
 
 <br>
 
-*ModelView   *DTO katmanı ve AutoMapper
+*DTO katmanı ve AutoMapper
 
 <br>
 
@@ -28,18 +28,19 @@
 
 <br>
 
-*Loglama   *Dependency Injection  *Autofac  *Fluent Validation  *ViewComponent  *Area   *PartialView  *Layout Partial   *Hata sayfaları oluşturma,
+*Loglama   *Dependency Injection   *Autofac    *Fluent Validation    *Hata sayfaları oluşturma,
 
+<br>
 
 *LINQ   *İlişkisel Tablolar ve Include işlemleri.
 
 <br>
 
-*Veritabanı->PostreSQL ve MSSQL.
+*Veritabanı-> PostreSQL ve MSSQL.
 
 <br>
 
-*FrontEnd->HTML, CSS, JavaScript, jQuery.
+*FrontEnd-> HTML, CSS, JavaScript, jQuery.
 
 # Proje Ekran Görüntüleri
 <br>
