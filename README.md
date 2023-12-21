@@ -71,7 +71,8 @@ FrontEnd->HTML, CSS, JavaScript, jQuery.
 
 <br>
 <br>
-![Ekran Görüntüsü (352)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/0e70e166-803b-4d37-88bd-c55e16a82e80)
+
+![Ekran Görüntüsü (352)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/c7ae0a1e-7125-4a97-9a3c-73c6e6f7fdb0)
 
 <br>
 <br>
@@ -82,7 +83,7 @@ FrontEnd->HTML, CSS, JavaScript, jQuery.
 <br>
 <br>
 
-![Ekran Görüntüsü (355)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/49ad6e1
+![Ekran Görüntüsü (355)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/f6daf2ad-fb9a-43be-82de-e949d145b6f7)
 
 <br>
 <br>
