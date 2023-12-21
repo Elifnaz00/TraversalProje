@@ -45,6 +45,26 @@
 # Proje Ekran Görüntüleri
 <br>
 
+![Ekran Görüntüsü (395)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/9a25aea6-8388-4102-8cd7-284a3d45d7c8)
+
+<br>
+<br>
+
+![Ekran Görüntüsü (396)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/1176b8a3-e439-4496-b733-afddcfd744c9)
+
+<br>
+<br>
+
+![Ekran Görüntüsü (397)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/d4771f53-fe3e-48f1-9271-0703b5878317)
+
+<br>
+<br>
+
+![Ekran Görüntüsü (317)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/8f735b06-6dc3-4468-9165-3fac25839933)
+
+<br>
+<br>
+
 ![Ekran Görüntüsü (343)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/13569bee-2b28-4145-8e9b-66972d867581)
 
 <br>
