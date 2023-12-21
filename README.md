@@ -1,4 +1,4 @@
-# Projede Yapılan Çalışmalar
+# Projede Yapılan Çalışmalar ve Kullanılan Teknolojiler
 
 *Entity Framework Core    *Mvc   *N-Tier Architecture
 
@@ -28,7 +28,7 @@
 
 <br>
 
-*Loglama   *Dependency Injection   *Autofac    *Fluent Validation    *Hata sayfaları oluşturma,
+*Loglama      *Dependency Injection     *Autofac       *Fluent Validation       *Hata sayfaları oluşturma,
 
 <br>
 
