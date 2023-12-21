@@ -1,6 +1,6 @@
 # Projede Kullanılan Teknolojiler
 
-*Entity Framework Core   *Mvc   *N-Tier Architecture
+*Entity Framework Core    *Mvc   *N-Tier Architecture
 
 <br>
 
