@@ -150,6 +150,7 @@
 
 <br>
 <br>
+##Üye Paneli
 
 ![Ekran Görüntüsü (383)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/d3a77503-4ca2-41e2-bcec-6a8aac0249b5)
 
@@ -160,6 +161,8 @@
 
 <br>
 <br>
+
+##Admin Paneli
 
 ![admin1](https://github.com/Elifnaz00/TraversalProje/assets/144447322/a31ae2ce-623a-4e5a-9363-819c77941f57)
 
