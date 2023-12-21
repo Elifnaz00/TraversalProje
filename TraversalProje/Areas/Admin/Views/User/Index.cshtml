@@ -1,0 +1,53 @@
+﻿@using EntityLayer.Concrate
+@model List<AppUser>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int sayac = 0;
+}
+
+<h1>Kulanıcı Listesi</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>AD SOYAD</th>
+            <th>KULLANICI ADI</th>
+            <th>MAIL</th>
+            <th>Sil</th>
+            <th>Düzenle</th>
+            <th>Yorumlar</th>
+            <th>Tur Geçmişi</th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @{
+                    sayac = sayac + 1;
+                }
+                    
+                <td>@sayac </td>>
+                <td>@item.Name @item.SurName</td>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+                <td><a href="/Admin/User/DeleteUser/@item.Id" class="btn btn-outline-danger">Sil</a></td>
+                <td><a href="/Admin/User/EditUser/@item.Id" class="btn btn-outline-succes">Düzenle</a></td>
+                <td><a href="/Admin/User/CommentUser/@item.Id" class="btn btn-outline-info">Yorumlar</a></td>
+                <td><a href="/Admin/User/ReservationUser/@item.Id" class="btn btn-outline-primary">Tur Geçmişi</a></td>
+
+               
+            </tr>
+
+        }
+
+
+    </tbody>
+</table>
+<a href="/Login/SignUp/" class="btn btn-outline-primary">Yeni Kullanıcı Oluştur</a>
+
+

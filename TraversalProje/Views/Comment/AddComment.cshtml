@@ -1,0 +1,41 @@
+﻿@if(User.Identity.IsAuthenticated)
+{
+    <div class="leave-comment-form mt-5" id="reply">
+        <h4 class="side-title mb-2">
+            Bir Yorum Bırakın
+        </h4>
+        <p class="mb-4">
+            İşaretli alanları doldurmanız gerekmektedir. *
+        </p>
+
+
+        <form method="post" asp-action="AddComment" asp-controller="Comment">
+
+            <input type="hidden" name="DestinationID" value="@ViewBag.i" />
+            <input type="hidden" name="AppUserID" value="@ViewBag.userID" />
+            
+
+            <div class="form-group">
+                <textarea name="CommentContent" class="form-control" placeholder="Yorumunuz*" required=""
+                          spellcheck="false"></textarea>
+            </div>
+
+
+            <div class="submit text-right">
+                <button class="btn btn-style btn-primary">Yorum Yap </button>
+            </div>
+        </form>
+    </div>
+}
+else
+{
+   <br />
+    
+    <div class="alert alert-dismissible alert-warning">
+        <button type="button" class="btn-close" data-bs-dismiss="alert">Uyarı</button>
+        <br>
+        <p class="mb-0"><strong>Yorum yapabilmeniz için giriş yapmanız gerekmektedir.</strong> Yorum yapabilmek için lütfen bu sayfadan <a href="/Login/SignIn/" class="alert-link">Giriş Yapınız</a>.</p>
+    </div>
+    
+
+}

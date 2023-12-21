@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+@await Html.PartialAsync("/Views/Reservation/BreadCrumb.cshtml")
+
+<section class="w3l-pricinghny">
+    <div class="pricing-inner-info py-5">
+        <div class="container py-lg-4">
+            <div class="pricing-info-grids">
+
+                @await Component.InvokeAsync("_Reservation")
+
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
