@@ -4,7 +4,7 @@
 
 <br>
 
-*MediatR Design Pattern     *CQRS Design Pattern    *Repository Design Pattern   *Unit Of Work Design Pattern
+*MediatR Design Pattern     *CQRS Design Pattern     *Repository Design Pattern     *Unit Of Work Design Pattern
 
 <br>
 
