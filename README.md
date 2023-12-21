@@ -1,10 +1,10 @@
 # Projede Kullanılan Teknolojiler
 
-*Entity Framework Core, *Mvc, *N-Tier Architecture,
+*Entity Framework Core   *Mvc   *N-Tier Architecture
 
 <br>
 
-*MediatR Design Pattern     *CQRS Design Pattern    *Repository Design Pattern   *Unit Of Work Design Pattern,
+*MediatR Design Pattern     *CQRS Design Pattern    *Repository Design Pattern   *Unit Of Work Design Pattern
 
 <br>
 
@@ -16,35 +16,30 @@
 
 <br>
 
-Restful Api, Rapid Api, SignalR, Ajax,
+*Restful Api   *Rapid Api   *SignalR, Ajax,
 
 <br>
 
-*Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri   *Localization   *Google Hesaba Mail Gönderme İşlemi   *Identity   *Authentication & Authorization   *Rol Yönetimi, 
+*Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri   *Localization   *Google Hesaba Mail Gönderme İşlemi    *Identity   *Authentication & Authorization   *Rol Yönetimi, 
 
 <br>
 
-Excel Raporları ile çalışma , Pdf Raporları, Dil Desteği,
+*Excel Raporları ile çalışma    *Pdf Raporları   *Dil Desteği,
 
 <br>
 
-Loglama,
-Dependency Injection,
-Autofac,
-Fluent Validation,
-ViewComponent,
-Area,
-PartialView,
-Layout Partial,
-Hata sayfaları oluşturma,
+*Loglama   *Dependency Injection  *Autofac  *Fluent Validation  *ViewComponent  *Area   *PartialView  *Layout Partial   *Hata sayfaları oluşturma,
 
 
-LINQ,
-İlişkisel Tablolar ve Include işlemleri.
+*LINQ   *İlişkisel Tablolar ve Include işlemleri.
 
-Veritabanı->PostreSQL ve MSSQL.
+<br>
 
-FrontEnd->HTML, CSS, JavaScript, jQuery.
+*Veritabanı->PostreSQL ve MSSQL.
+
+br>
+
+*FrontEnd->HTML, CSS, JavaScript, jQuery.
 
 # Proje Ekran Görüntüleri
 <br>
