@@ -3,15 +3,15 @@
 *Entity Framework Core, *Mvc, *N-Tier Architecture,
 <br>
 
-*MediatR Design Pattern, *CQRS Design Pattern, *Repository Design Pattern, *Unit Of Work Design Pattern,
+*MediatR Design Pattern     *CQRS Design Pattern    *Repository Design Pattern   *Unit Of Work Design Pattern,
 
 <br>
 
-Container Dependencies kullanımı ve Startup Refactoring işlemleri,
+*Container Dependencies kullanımı ve Startup Refactoring işlemleri
 
 <br>
 
-ModelView, DTO katmanı ve AutoMapper
+*ModelView   *DTO katmanı ve AutoMapper
 
 <br>
 
