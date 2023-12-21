@@ -1,6 +1,7 @@
 # Projede Kullanılan Teknolojiler
 
 *Entity Framework Core, *Mvc, *N-Tier Architecture,
+
 <br>
 
 *MediatR Design Pattern     *CQRS Design Pattern    *Repository Design Pattern   *Unit Of Work Design Pattern,
@@ -18,7 +19,8 @@
 Restful Api, Rapid Api, SignalR, Ajax,
 
 <br>
-Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri, Localization, Google Hesaba Mail Gönderme İşlemi, Identity, Authentication & Authorization, Rol Yönetimi, 
+
+*Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri   *Localization   *Google Hesaba Mail Gönderme İşlemi   *Identity   *Authentication & Authorization   *Rol Yönetimi, 
 
 <br>
 
