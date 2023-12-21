@@ -69,6 +69,7 @@ FrontEnd->HTML, CSS, JavaScript, jQuery.
 
 ![Ekran Görüntüsü (361)](https://github.com/Elifnaz00/TraversalCoreProje/assets/144447322/a8c8a7ec-2a17-42f2-8a7c-1ffef9afdf5a)
 
+
 <br>
 <br>
 
