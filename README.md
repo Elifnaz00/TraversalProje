@@ -74,13 +74,10 @@ FrontEnd->HTML, CSS, JavaScript, jQuery.
 <br>
 
 ![Ekran Görüntüsü (362)](https://github.com/Elifnaz00/TraversalCoreProje/assets/144447322/92ef0f71-058e-41b6-b1be-77f36cdda97a)
-
-
 <br>
 <br>
 
 ![Ekran Görüntüsü (363)](https://github.com/Elifnaz00/TraversalCoreProje/assets/144447322/47857d4e-4782-40db-b073-eff9c7a19bba)
-
 <br>
 <br>
 
