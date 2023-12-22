@@ -121,12 +121,12 @@
 <br>
 <br>
 
-![Ekran Görüntüsü (382)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/b01877b9-d3e6-43ec-b5c9-f759a854fb92)
-
-<br>
-<br>
-
 ![Ekran Görüntüsü (361)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/00c9fb92-e09e-4771-ba8e-0c83767ca7e2)
+
+<br>
+<br>
+
+![Ekran Görüntüsü (382)](https://github.com/Elifnaz00/TraversalProje/assets/144447322/b01877b9-d3e6-43ec-b5c9-f759a854fb92)
 
 <br>
 <br>
