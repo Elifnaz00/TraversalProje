@@ -20,7 +20,7 @@
 
 <br>
 
-*Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri   *Localization   *Google Hesaba Mail Gönderme İşlemi    *Identity   *Authentication & Authorization   *Rol Yönetimi, 
+*Mail ile Şifre değişiklik talebi ve şifre yenileme işlemleri       *Localization     *Google Hesaba Mail Gönderme İşlemi      *Authentication & Authorization   
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-*Loglama      *Dependency Injection     *Autofac       *Fluent Validation       *Hata sayfaları oluşturma,
+*Loglama      *Autofac       *Fluent Validation    
 
 <br>
 
